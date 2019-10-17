@@ -3,7 +3,7 @@
   "description": "Curriculum vitae",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jesusgm.github.io/cv/build/",
+  "homepage": "https://jesusgm.github.io/curriculum-vitae/cv/build/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.22",
     "@fortawesome/free-brands-svg-icons": "^5.10.2",
