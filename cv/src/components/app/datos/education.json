@@ -1,0 +1,22 @@
+[{
+    "id": "3",
+    "user_id": "1",
+    "start": "2013",
+    "end": "2015 (Pdte el TFM)",
+    "title": "M\u00e1ster Univ. en Enxe\u00f1ar\u00eda Inform\u00e1tica",
+    "description": "M\u00e1ster Universitario en Enxe\u00f1er\u00eda Inform\u00e1tica en la Universidad de Vigo."
+}, {
+    "id": "2",
+    "user_id": "1",
+    "start": "2009",
+    "end": "2013",
+    "title": "Grado en Ingenier\u00eda Inform\u00e1tica",
+    "description": "Grado en Ingenier\u00eda Inform\u00e1tica en la Escuela Superior de Enxe\u00f1er\u00eda Inform\u00e1tica de Ourense"
+}, {
+    "id": "1",
+    "user_id": "1",
+    "start": "2007",
+    "end": "2009",
+    "title": "T\u00e9cnico superior de administraci\u00f3n de sistemas inform\u00e1ticos",
+    "description": "Ciclo superior de administraci\u00f3n de sistemas inform\u00e1ticos (ASI)"
+}]

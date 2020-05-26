@@ -1,19 +1,27 @@
 {
   "files": {
-    "main.css": "/curriculum-vitae/cv/build/static/css/main.3112ee2e.chunk.css",
-    "main.js": "/curriculum-vitae/cv/build/static/js/main.b198e9d0.chunk.js",
-    "main.js.map": "/curriculum-vitae/cv/build/static/js/main.b198e9d0.chunk.js.map",
-    "runtime~main.js": "/curriculum-vitae/cv/build/static/js/runtime~main.dfe41e40.js",
-    "runtime~main.js.map": "/curriculum-vitae/cv/build/static/js/runtime~main.dfe41e40.js.map",
-    "static/css/2.62908225.chunk.css": "/curriculum-vitae/cv/build/static/css/2.62908225.chunk.css",
-    "static/js/2.8ef40d7e.chunk.js": "/curriculum-vitae/cv/build/static/js/2.8ef40d7e.chunk.js",
-    "static/js/2.8ef40d7e.chunk.js.map": "/curriculum-vitae/cv/build/static/js/2.8ef40d7e.chunk.js.map",
+    "main.css": "/curriculum-vitae/cv/build/static/css/main.dc0c0d75.chunk.css",
+    "main.js": "/curriculum-vitae/cv/build/static/js/main.0ab3a136.chunk.js",
+    "main.js.map": "/curriculum-vitae/cv/build/static/js/main.0ab3a136.chunk.js.map",
+    "runtime-main.js": "/curriculum-vitae/cv/build/static/js/runtime-main.b1200c3a.js",
+    "runtime-main.js.map": "/curriculum-vitae/cv/build/static/js/runtime-main.b1200c3a.js.map",
+    "static/css/2.160cff76.chunk.css": "/curriculum-vitae/cv/build/static/css/2.160cff76.chunk.css",
+    "static/js/2.acc45ca9.chunk.js": "/curriculum-vitae/cv/build/static/js/2.acc45ca9.chunk.js",
+    "static/js/2.acc45ca9.chunk.js.map": "/curriculum-vitae/cv/build/static/js/2.acc45ca9.chunk.js.map",
     "index.html": "/curriculum-vitae/cv/build/index.html",
-    "precache-manifest.ff519b6799aaee1f5dce07711ab68aac.js": "/curriculum-vitae/cv/build/precache-manifest.ff519b6799aaee1f5dce07711ab68aac.js",
+    "precache-manifest.4d8cd5a96f9443c3857fbecda03a3b3f.js": "/curriculum-vitae/cv/build/precache-manifest.4d8cd5a96f9443c3857fbecda03a3b3f.js",
     "service-worker.js": "/curriculum-vitae/cv/build/service-worker.js",
-    "static/css/2.62908225.chunk.css.map": "/curriculum-vitae/cv/build/static/css/2.62908225.chunk.css.map",
-    "static/css/main.3112ee2e.chunk.css.map": "/curriculum-vitae/cv/build/static/css/main.3112ee2e.chunk.css.map",
+    "static/css/2.160cff76.chunk.css.map": "/curriculum-vitae/cv/build/static/css/2.160cff76.chunk.css.map",
+    "static/css/main.dc0c0d75.chunk.css.map": "/curriculum-vitae/cv/build/static/css/main.dc0c0d75.chunk.css.map",
+    "static/js/2.acc45ca9.chunk.js.LICENSE.txt": "/curriculum-vitae/cv/build/static/js/2.acc45ca9.chunk.js.LICENSE.txt",
     "static/media/style.css": "/curriculum-vitae/cv/build/static/media/blueprint.7048d16d.jpg",
     "static/media/profileimage.jpeg": "/curriculum-vitae/cv/build/static/media/profileimage.2adb9eeb.jpeg"
-  }
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1200c3a.js",
+    "static/css/2.160cff76.chunk.css",
+    "static/js/2.acc45ca9.chunk.js",
+    "static/css/main.dc0c0d75.chunk.css",
+    "static/js/main.0ab3a136.chunk.js"
+  ]
 }

@@ -8,9 +8,9 @@ import {
   faAt,
   faBirthdayCake,
   faGlobeEurope,
-  faSpinner
+  faSpinner,
 } from "@fortawesome/free-solid-svg-icons";
-import axios from "axios";
+// import axios from "axios";
 
 import "./styles.css";
 
@@ -25,7 +25,7 @@ class ContactInfo extends Component {
       loading: false,
       name: "",
       email: "",
-      comment: ""
+      comment: "",
     };
 
     this.renderForm = this.renderForm.bind(this);
@@ -48,27 +48,27 @@ class ContactInfo extends Component {
         data: JSON.stringify({
           name: this.state.name,
           email: this.state.email,
-          comment: this.state.comment
-        })
+          comment: this.state.comment,
+        }),
       },
-      mode: "cors"
+      mode: "cors",
     };
 
     axios
       .get(`//jgmcloud.000webhostapp.com/cvapi/contact`, config)
-      .then(res => {
+      .then((res) => {
         const data = res.data;
         this.setState({
           loading: false,
           showForm: false,
           name: "",
           email: "",
-          comment: ""
+          comment: "",
         });
       })
       .catch(() => {
         this.setState({
-          loading: false
+          loading: false,
         });
       });
   }
@@ -109,9 +109,9 @@ class ContactInfo extends Component {
                       className="input"
                       type="text"
                       value={this.state.name}
-                      onChange={event =>
+                      onChange={(event) =>
                         this.setState({
-                          name: event.target.value
+                          name: event.target.value,
                         })
                       }
                     />
@@ -125,9 +125,9 @@ class ContactInfo extends Component {
                       className="input"
                       type="text"
                       value={this.state.email}
-                      onChange={event =>
+                      onChange={(event) =>
                         this.setState({
-                          email: event.target.value
+                          email: event.target.value,
                         })
                       }
                     />
@@ -143,9 +143,9 @@ class ContactInfo extends Component {
                       className="textarea"
                       type="text"
                       value={this.state.comment}
-                      onChange={event =>
+                      onChange={(event) =>
                         this.setState({
-                          comment: event.target.value
+                          comment: event.target.value,
                         })
                       }
                     />
@@ -178,14 +178,16 @@ class ContactInfo extends Component {
           <div className="tlf">
             <FontAwesomeIcon className="icon" icon={faPhone} />
             {/* <a href={`tel://${user.phone}`}>{user.phone}</a> */}
-            <a onClick={() => this.setState({ showForm: true })}>6xx xxx xxx</a>
+            {/* <a onClick={() => this.setState({ showForm: true })}>6xx xxx xxx</a> */}
+            <a>6xx xxx xxx</a>
           </div>
           <div className="email">
             <FontAwesomeIcon className="icon" icon={faAt} />
             {/* <a href={`mailto:${user.email}`}>{user.email}</a> */}
-            <a onClick={() => this.setState({ showForm: true })}>
+            {/* <a onClick={() => this.setState({ showForm: true })}>
               jxxxxxxx@xxx.com
-            </a>
+            </a> */}
+            <a>jxxxxxxx@xxx.com</a>
           </div>
           <div className="www">
             <FontAwesomeIcon className="icon" icon={faGlobeEurope} />

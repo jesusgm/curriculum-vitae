@@ -1,0 +1,22 @@
+[{
+    "id": "3",
+    "user_id": "1",
+    "start": "08\/2017",
+    "end": "Actualidad",
+    "title": "Desarrollador de front-end",
+    "description": "Desarrollo front-end con un framework JavaScript basado en React + Redux para una empresa l\u00edder del sector textil."
+}, {
+    "id": "2",
+    "user_id": "1",
+    "start": "06\/2015",
+    "end": "08\/2017",
+    "title": "Web developer front-end and back-end",
+    "description": "Desarrollo de e-commerce y landing pages. \r\nUtilizando Prestashop para crear los e-comerce y haciendo toda la maquetaci\u00f3n del dise\u00f1o con HTML5, CSS, JavaScript y la funcionalidad con PHP creando m\u00f3dulos y controladores a medida. Creando un template totalmente personalizado y search friendly con microdatos, url amigables y optimizado con integraci\u00f3n con ERP y servicios de cach\u00e9 como Akamai.\r\nPara las langing pages se utilizaba HTML5, CSS y JavaScript y se utilizaba PHP para darle algo de funcionalidad como registrar y enviar emails de la secci\u00f3n de contacto"
+}, {
+    "id": "1",
+    "user_id": "1",
+    "start": "06\/2013",
+    "end": "06\/2015",
+    "title": "Web developer en Ziblec Software S.L.",
+    "description": "Desarrollador de p\u00e1ginas web utilizando tecnolog\u00edas HTML5, CSS3, JavaScript y jQuery para front-end y PHP para el back-end.\r\nTambi\u00e9n he utilizado el Joomla como CMS (modificando contenido, maquetaci\u00f3n y dessarrollando templates y m\u00f3dulos personalizados)."
+}]

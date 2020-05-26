@@ -1,0 +1,169 @@
+[{
+    "id": "1",
+    "user_id": "1",
+    "name": "React + Redux",
+    "percentage": "95",
+    "skill": "1",
+    "tags": "0"
+}, {
+    "id": "2",
+    "user_id": "1",
+    "name": "HTML5",
+    "percentage": "95",
+    "skill": "1",
+    "tags": "1"
+}, {
+    "id": "3",
+    "user_id": "1",
+    "name": "PHP",
+    "percentage": "80",
+    "skill": "1",
+    "tags": "1"
+}, {
+    "id": "4",
+    "user_id": "1",
+    "name": "GIT",
+    "percentage": "75",
+    "skill": "1",
+    "tags": "1"
+}, {
+    "id": "5",
+    "user_id": "1",
+    "name": "Prestashop",
+    "percentage": "70",
+    "skill": "1",
+    "tags": "1"
+}, {
+    "id": "6",
+    "user_id": "1",
+    "name": "CSS3",
+    "percentage": "95",
+    "skill": "1",
+    "tags": "1"
+}, {
+    "id": "7",
+    "user_id": "1",
+    "name": "GNU\/Linux",
+    "percentage": "75",
+    "skill": "1",
+    "tags": "1"
+}, {
+    "id": "8",
+    "user_id": "1",
+    "name": "SQL",
+    "percentage": "75",
+    "skill": "1",
+    "tags": "1"
+}, {
+    "id": "9",
+    "user_id": "1",
+    "name": "Bootstrap",
+    "percentage": "85",
+    "skill": "1",
+    "tags": "1"
+}, {
+    "id": "10",
+    "user_id": "1",
+    "name": "SCRUM",
+    "percentage": "60",
+    "skill": "0",
+    "tags": "1"
+}, {
+    "id": "11",
+    "user_id": "1",
+    "name": "Jira",
+    "percentage": "65",
+    "skill": "0",
+    "tags": "1"
+}, {
+    "id": "12",
+    "user_id": "1",
+    "name": "JSON",
+    "percentage": "90",
+    "skill": "1",
+    "tags": "1"
+}, {
+    "id": "13",
+    "user_id": "1",
+    "name": "JavaScript \/ ES6",
+    "percentage": "95",
+    "skill": "1",
+    "tags": "0"
+}, {
+    "id": "14",
+    "user_id": "1",
+    "name": "jQuery",
+    "percentage": "75",
+    "skill": "1",
+    "tags": "1"
+}, {
+    "id": "15",
+    "user_id": "1",
+    "name": "Trabajo en equipo",
+    "percentage": "90",
+    "skill": "1",
+    "tags": "0"
+}, {
+    "id": "16",
+    "user_id": "1",
+    "name": "JavaScript",
+    "percentage": "95",
+    "skill": "0",
+    "tags": "1"
+}, {
+    "id": "17",
+    "user_id": "1",
+    "name": "ES6",
+    "percentage": "95",
+    "skill": "0",
+    "tags": "1"
+}, {
+    "id": "18",
+    "user_id": "1",
+    "name": "React",
+    "percentage": "100",
+    "skill": "0",
+    "tags": "1"
+}, {
+    "id": "19",
+    "user_id": "1",
+    "name": "Redux",
+    "percentage": "100",
+    "skill": "0",
+    "tags": "1"
+}, {
+    "id": "20",
+    "user_id": "1",
+    "name": "Responsive",
+    "percentage": "90",
+    "skill": "0",
+    "tags": "1"
+}, {
+    "id": "21",
+    "user_id": "1",
+    "name": "Frameworks JS",
+    "percentage": "50",
+    "skill": "0",
+    "tags": "1"
+}, {
+    "id": "22",
+    "user_id": "1",
+    "name": "Agile",
+    "percentage": "45",
+    "skill": "0",
+    "tags": "1"
+}, {
+    "id": "23",
+    "user_id": "1",
+    "name": "Java",
+    "percentage": "35",
+    "skill": "0",
+    "tags": "1"
+}, {
+    "id": "24",
+    "user_id": "1",
+    "name": "Sprint",
+    "percentage": "25",
+    "skill": "0",
+    "tags": "1"
+}]
