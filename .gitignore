@@ -1,12 +1,11 @@
-cv/node_modules
+node_modules
 
 # dependencies
-cv/.pnp
+.pnp
 .pnp.js
 
 # testing
-cv/coverage
-
+coverage
 
 # misc
 .DS_Store
